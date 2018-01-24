@@ -14,7 +14,7 @@ class bookData extends productData {
 var p = new bookData("Es6", 23, "Libs", "Eduardo");
 
 var printData = () => {
-    console.log(p.productName);
+    console.log(p.productName, p.authorBook);
 }
 $(document).ready(function() {
     //showWords();
