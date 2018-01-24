@@ -15,6 +15,8 @@ var p = new bookData("Es6", 23, "Libs", "Eduardo");
 
 var printData = () => {
     console.log(p.productName, p.authorBook);
+    var txtBook = "El libro se llama " + p.productName + " y fue escrito por: " + p.authorBook + "";
+    document.getElementById("demo").innerHTML = txtBook;
 }
 $(document).ready(function() {
     //showWords();
