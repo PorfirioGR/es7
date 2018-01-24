@@ -11,7 +11,7 @@ class bookData extends productData {
         this.authorBook = authorBook;
     }
 }
-var p = new bookData("Es6", 23, "Libs", "Cesar");
+var p = new bookData("Es6", 23, "Libs", "Eduardo");
 
 var printData = () => {
     console.log(p.productName);
