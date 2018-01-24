@@ -1,0 +1,23 @@
+commit 3d5fa15e75ac57c31bd0cca7706ba4c6d4f405ec
+Author: Eduardo Celedonio <eceledoniogarica@gmail.com>
+Date:   Wed Jan 24 10:07:50 2018 -0600
+
+    Se agrego h1 en idex.html y parametro authorBook en clases.js
+
+commit df7d88e381749ce5e9ffd58174b11a7174573989
+Author: Eduardo Celedonio <eceledoniogarica@gmail.com>
+Date:   Wed Jan 24 10:02:32 2018 -0600
+
+    Cambio en instancia de clase bookData: Cesar por Eduardo
+
+commit 1eb070b7078c0dc2086c84f40d8ea87a14da61df
+Author: Eduardo Celedonio <eceledoniogarica@gmail.com>
+Date:   Wed Jan 24 09:58:01 2018 -0600
+
+    Iniciamos
+
+commit 9021c3c8ed571bd1da3d4598f6353ef28d75717d
+Author: Eduardo Celedonio <eceledoniogarica@gmail.com>
+Date:   Wed Jan 24 09:54:27 2018 -0600
+
+    Iniciamos
